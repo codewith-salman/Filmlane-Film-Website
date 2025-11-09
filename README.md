@@ -3,7 +3,7 @@
 <br />
 <div align="center">
 
-<img src="Filmlane/assets/images/project-logo.png" alt="Filmlane Film Website Logo" width="300" />
+<img src="Filmlane/assets/images/project-logo.png" alt="Filmlane Film Website Logo" width="250" />
 
 ## 🎬 Filmlane Film Website  
 A cinematic and fully responsive **Film Website UI** built with HTML, CSS, and JavaScript.  
