@@ -56,7 +56,6 @@ The **Filmlane Film Website** is a modern and immersive movie website concept de
 The layout focuses on:
 - Modern cinematic UI design  
 - Featured movies and trailer showcases  
-- Smooth hover effects and transitions  
 - Fully responsive experience across all devices  
 
 This project demonstrates your ability to build **professional entertainment websites** with visually engaging layouts, intuitive navigation, and responsive front-end development.
