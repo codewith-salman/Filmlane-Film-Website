@@ -75,8 +75,7 @@ Ideal for:
 - Fully responsive film website layout  
 - Modern dark-themed cinematic UI  
 - Featured movies and trailers section  
-- Smooth hover animations and transitions  
-- Clean typography and structured layouts  
+- Smooth hover animations and transitions   
 - Easy-to-customize design for entertainment projects  
 
 ---
